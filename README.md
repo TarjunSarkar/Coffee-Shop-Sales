@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales
+# Maven Roaster: Coffee-Shop-Sales
 In this project, I developed an interactive Excel dashboard to analyze coffee shop sales, providing key insights into sales trends, customer behavior, and product performance. I utilized several tools throughout the project to ensure data accuracy and clarity.
 
 Data Cleaning and Preparation: I used Power Query to clean and transform raw sales data by removing duplicates, correcting formatting, and handling missing values, ensuring accurate analysis. I removed duplicates, corrected formatting issues, and handled missing values to ensure the data was clean and ready for analysis.
